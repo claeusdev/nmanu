@@ -16,7 +16,9 @@ export default function Home() {
           </h2>
           <p className="mt-6 text-xl leading-8 text-gray-600">
             I&apos;m a software engineer. I love building software with web
-            technologies. I&apos;m building the future of maps at Mapbox.
+            technologies. I&apos;ve written lots of Ruby, JavaScript and
+            TypeScript for small to large startups and companies with domain
+            experience in Ecommerce, Finance, Insurance, Fintech & other SaaS.
           </p>
           <p className="mt-6 text-xl leading-8 text-gray-600">
             I&apos;m almost a musician. I play guitar and sing (mostly in the
